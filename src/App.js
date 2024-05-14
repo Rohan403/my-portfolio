@@ -25,12 +25,12 @@ function App() {
           <div className="row">
             <div className="col-md-12 col-lg-6">
               <div className="screenWords">
-                <h1>Hello, I'm Irene.</h1>
+                <h1>Hello, I'm Niladri Pal.</h1>
                 <p>
                   A full-stack developer. Specializing in building exceptional
                   trending mobile applications and websites. Feel free to take a
                   look at my latest projects. Remotely available UTC−1 to UTC+8.
-                  project@irenemmassy.com Tel:+255 065 535 2744
+                  project@irenemmassy.com Tel:+91 955 690 3109
                 </p>
                 <div className="twoMainButton">
                   <div className="buttonMain">
@@ -46,7 +46,7 @@ function App() {
             </div>
             <div className="col-md-12 col-lg-6">
               <div className="screenImage">
-                <img src="./images/main2.png" alt="irene blog" />
+                <img src="https://theleanprogrammer.com/static/media/home_anime.f372ef86.gif" alt="irene blog" />
               </div>
             </div>
           </div>
@@ -64,7 +64,7 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="https://image.flaticon.com/icons/svg/426/426487.svg"
+                            src="https://cdn-icons-png.flaticon.com/512/2210/2210153.png"
                             alt="Web Development"
                           />
                         </div>
@@ -81,7 +81,7 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img2.svg"
+                            src="https://cdn-icons-png.flaticon.com/512/5608/5608615.png"
                             alt="Mobile Development"
                           />
                         </div>
@@ -98,7 +98,7 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img3.png"
+                            src="https://cdn-icons-png.flaticon.com/512/10061/10061737.png"
                             alt="PWA development"
                           />
                         </div>
@@ -116,7 +116,7 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img6.svg"
+                            src="https://cdn-icons-png.flaticon.com/512/1683/1683688.png"
                             alt="Cross-Platform App"
                           />
                         </div>
@@ -133,7 +133,7 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img4.svg"
+                            src="https://cdn-icons-png.flaticon.com/512/1055/1055666.png"
                             alt="UX/UI Designs"
                           />
                         </div>
@@ -151,7 +151,7 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img5.svg"
+                            src="https://cdn-icons-png.flaticon.com/512/1998/1998087.png"
                             alt="Digital Marketing"
                           />
                         </div>
@@ -176,8 +176,8 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img7.svg"
-                            alt="blockchain"
+                            src="https://cdn-icons-png.flaticon.com/512/7075/7075373.png"
+                            alt="mobileDevelopment"
                           />
                         </div>
                         <div className="sectionWords">
@@ -196,8 +196,8 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img8.svg"
-                            alt="blockchain"
+                            src="	https://cdn-icons-png.flaticon.com/512/1260/1260111.png"
+                            alt="UX/UI Designs"
                           />
                         </div>
                         <div className="sectionWords">
@@ -216,8 +216,8 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img9.svg"
-                            alt="blockchain"
+                            src="https://cdn-icons-png.flaticon.com/512/2010/2010990.png"
+                            alt="webDevelopment"
                           />
                         </div>
                         <div className="sectionWords">
@@ -236,8 +236,8 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img10.svg"
-                            alt="blockchain"
+                            src="https://cdn-icons-png.flaticon.com/512/9018/9018922.png"
+                            alt="e-commerce"
                           />
                         </div>
                         <div className="sectionWords">
@@ -255,8 +255,8 @@ function App() {
                       <div className="sectionBox">
                         <div className="sectionImage">
                           <img
-                            src="./assets/images/img11.svg"
-                            alt="blockchain"
+                            src="https://cdn-icons-png.flaticon.com/512/9438/9438404.png"
+                            alt="ServerSide"
                           />
                         </div>
                         <div className="sectionWords">
@@ -281,7 +281,7 @@ function App() {
                   <div className="col-lg-4 col-md-4 col-sm-6">
                     <div className="sectionBox">
                       <div className="sectionImage">
-                        <img src="./assets/images/img12.svg" alt="blockchain" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/6028/6028865.png" alt="Construction" />
                       </div>
                       <div className="sectionWords">
                         <h4>Construction</h4>
@@ -295,7 +295,7 @@ function App() {
                   <div className="col-lg-4 col-md-4 col-sm-6">
                     <div className="sectionBox">
                       <div className="sectionImage">
-                        <img src="./assets/images/img13.svg" alt="blockchain" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/3004/3004458.png" alt="Healthcare" />
                       </div>
                       <div className="sectionWords">
                         <h4>Healthcare</h4>
@@ -309,7 +309,7 @@ function App() {
                   <div className="col-lg-4 col-md-4 col-sm-6">
                     <div className="sectionBox">
                       <div className="sectionImage">
-                        <img src="./assets/images/img14.svg" alt="blockchain" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/11130/11130874.png" alt="Retail & ECommerce" />
                       </div>
                       <div className="sectionWords">
                         <h4>Retail & ECommerce</h4>
@@ -323,7 +323,7 @@ function App() {
                   <div className="col-lg-4 col-md-4 col-sm-6">
                     <div className="sectionBox">
                       <div className="sectionImage">
-                        <img src="./assets/images/img15.svg" alt="blockchain" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/14597/14597926.png" alt="blockchain" />
                       </div>
                       <div className="sectionWords">
                         <h4>FinTech</h4>
@@ -337,7 +337,7 @@ function App() {
                   <div className="col-lg-4 col-md-4 col-sm-6">
                     <div className="sectionBox">
                       <div className="sectionImage">
-                        <img src="./assets/images/img16.svg" alt="blockchain" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/2200/2200326.png" alt="Travel" />
                       </div>
                       <div className="sectionWords">
                         <h4>Travel & Hospitality</h4>
@@ -351,7 +351,7 @@ function App() {
                   <div className="col-lg-4 col-md-4 col-sm-6">
                     <div className="sectionBox">
                       <div className="sectionImage">
-                        <img src="./assets/images/img17.svg" alt="blockchain" />
+                        <img src="https://cdn-icons-png.flaticon.com/512/4363/4363708.png" alt="Logistics" />
                       </div>
                       <div className="sectionWords">
                         <h4>Logistics</h4>
@@ -377,7 +377,7 @@ function App() {
               <div className="row">
                 <div className="col-md-6">
                   <div className="aboutMeImg">
-                    <img src="./images/gifs/about.jpg" alt="about me" />
+                    <img src="https://theleanprogrammer.com/static/media/about_anime.986764c2.gif" alt="about me" />
                   </div>
                 </div>
                 <div className="col-md-6">
@@ -461,7 +461,7 @@ function App() {
           <div className="rows">
             <div className="shop col-lg-3 col-md-4 col-sm-6">
               <div className="shopBack">
-                <img src="./assets/images/recent1.png" alt="recent" />
+                <img src="https://cdn-icons-png.flaticon.com/512/3527/3527516.png" alt="recent" />
                 <div className="shoplebal">
                   <a href="#">Read More</a>
                 </div>

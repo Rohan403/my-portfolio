@@ -1,4 +1,5 @@
 import React from "react";
+import "bootstrap-icons/font/bootstrap-icons.css";
 
 const Footer = () => {
   return (
@@ -6,7 +7,10 @@ const Footer = () => {
       <div class="container">
         <div class="footerContainer">
           <div class="footerLogo">
-            <img src="./assets/images/gifs/logo2.png" alt="Logo" />
+            <img
+              src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/63b3fa47902895.58887b32da6e6.gif"
+              alt="Logo"
+            />
           </div>
           <div class="footerNav">
             <p>
@@ -28,31 +32,26 @@ const Footer = () => {
           <div class="footerMedias">
             <div class="footerMedia">
               <a href="https://www.linkedin.com/in/laura-irene-paul">
-                <i class="fab fa-linkedin-in"></i>
+                <i class="bi bi-linkedin"></i>
               </a>
             </div>
             <div class="footerMedia">
               <a href="https://www.facebook.com/irene.mmassy.1466">
-                <i class="fab fa-facebook-f"></i>
+                <i class="bi bi-facebook"></i>
               </a>
             </div>
             <div class="footerMedia">
               <a href="https://www.instagram.com/minaheryy/">
-                <i class="fab fa-instagram"></i>
-              </a>
-            </div>
-            <div class="footerMedia">
-              <a href="https://www.behance.net/laummassy01ce">
-                <i class="fab fa-behance"></i>
+                <i class="bi bi-instagram"></i>
               </a>
             </div>
             <div class="footerMedia">
               <a href="https://github.com/irenemmassy">
-                <i class="fab fa-github-alt"></i>
+                <i class="bi bi-github"></i>
               </a>
             </div>
           </div>
-          <span>Copyright ©2020 All rights reserved </span>
+          <span>Copyright ©2024 All rights reserved </span>
         </div>
       </div>
     </footer>
